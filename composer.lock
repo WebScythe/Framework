@@ -58,12 +58,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WebScythe/router.git",
-                "reference": "3293ce8dc82b29a44ef888d0aa2ab7daec49b8b1"
+                "reference": "d9efdebec73e42f1f02cf6ca34e19084a1aba832"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WebScythe/router/zipball/3293ce8dc82b29a44ef888d0aa2ab7daec49b8b1",
-                "reference": "3293ce8dc82b29a44ef888d0aa2ab7daec49b8b1",
+                "url": "https://api.github.com/repos/WebScythe/router/zipball/d9efdebec73e42f1f02cf6ca34e19084a1aba832",
+                "reference": "d9efdebec73e42f1f02cf6ca34e19084a1aba832",
                 "shasum": ""
             },
             "require": {
@@ -84,8 +84,8 @@
                     "email": "liviu.gelea@gmail.com"
                 }
             ],
-            "description": "description_text",
-            "time": "2019-10-03T20:25:05+00:00"
+            "description": "Router package for webscythe framework",
+            "time": "2019-10-03T20:45:45+00:00"
         }
     ],
     "packages-dev": [
