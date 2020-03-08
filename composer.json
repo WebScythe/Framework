@@ -1,7 +1,7 @@
 {
     "name": "webscythe/framework",
     "description": "magic-less framework promoting SOLID principles",
-    "type": "project",
+    "type": "package",
     "require-dev": {
         "mockery/mockery": "^1.2"
     },
@@ -13,7 +13,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Webscythe\\Framework\\": "src/"
+        }
+    },
     "require": {
-        "webscythe/router": "dev-master"
     }
 }
